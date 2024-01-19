@@ -1,0 +1,47 @@
+
+main{
+  background-color:#DCDCDC;  
+  min-height:100%;     
+}
+
+#title{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100px;
+  width:100%;
+  background-color:#C0C0C0;
+  
+
+}
+
+#img-div{
+  width:350px;
+  margin:0px auto;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+}
+
+#image{
+  max-width:100%;
+  margin:30px auto 0px auto;
+}
+
+#img-caption{
+  margin:10px;
+}
+
+#tribute-info{
+    display:flex;
+  flex-direction:column;
+  justify-content:center;
+  margin:20px 50px;
+}
+
+#tribute-link{
+width:100vh;
+ 
+target:_blank;
+}
