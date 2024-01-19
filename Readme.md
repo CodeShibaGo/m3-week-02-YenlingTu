@@ -11,8 +11,8 @@
 | 06 | 通過構建摩天輪來學習 CSS 動畫             |  <a href="https://yenlingtu.github.io/m3-week-02-YenlingTu/ferris_wheel/">click</a>  |
 | 07 | 透過建立一隻企鵝學習 CSS 變形效果         |  <a href="https://yenlingtu.github.io/m3-week-02-YenlingTu/penguin/">click</a>  |
 | 08 | 透過畫一隻貓學習進階 CSS                  | <a href="https://yenlingtu.github.io/m3-week-02-YenlingTu/cat_painting/">click</a>   |
-| 09 | 製作一個致敬頁面 Tribute Page             |  |
-| 10 | 製作一個個人作品集網站 Portfolio          |  |
-| 11 | 導覽列切板                                |  |
-| 12 | 頁尾切板                                  |  |
-| 13 | RWD 網頁切板                              |  |
+| 09 | 製作一個致敬頁面 Tribute Page             | <a href="https://yenlingtu.github.io/m3-week-02-YenlingTu/tribute_page/">click</a> |
+| 10 | 製作一個個人作品集網站 Portfolio          | <a href="https://yenlingtu.github.io/m3-week-02-YenlingTu/full_page_layout/">click</a> |
+| 11 | 導覽列切板                                | <a href="https://yenlingtu.github.io/m3-week-02-YenlingTu/navbar/">click</a> |
+| 12 | 頁尾切板                                  | <a href="https://yenlingtu.github.io/m3-week-02-YenlingTu/footer/">click</a> |
+| 13 | RWD 網頁切板                              | <a href="https://yenlingtu.github.io/m3-week-02-YenlingTu/rwd/">click</a> |
